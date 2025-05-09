@@ -1,0 +1,6 @@
+F:\ProyectosSQL\Desarrollos\bin\Debug\Desarrollos.dacpac
+F:\ProyectosSQL\Desarrollos\bin\Debug\Desarrollos.dll
+F:\ProyectosSQL\Desarrollos\bin\Debug\Desarrollos.pdb
+F:\ProyectosSQL\Desarrollos\obj\Debug\Desarrollos.sqlproj.AssemblyReference.cache
+F:\ProyectosSQL\Desarrollos\obj\Debug\Desarrollos.dll
+F:\ProyectosSQL\Desarrollos\obj\Debug\Desarrollos.pdb
